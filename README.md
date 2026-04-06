@@ -14,13 +14,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
-
-<div align="center">
-<a href="https://github.com/bseong23/convoychat">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=bseong23&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-</div>
-
 <!--
 **bseong23/bseong23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
